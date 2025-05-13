@@ -9,7 +9,7 @@
 <h2> Crear tarea</h2>
 <br>
 <hr>
-<form method="POST" action="nueva_tarea.php">
+<form method="POST" action="nueva_tarea1.php">
     <input type="text" name="titulo" placeholder="Título" required>
     <textarea name="descripcion" placeholder="Descripción"></textarea>
     <button type="submit">Crear Tarea</button>
