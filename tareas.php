@@ -37,7 +37,7 @@
     echo "</table>";
 ?>
 <hr>
-    <a href="nueva_tarea1.php">Nueva tarea</a> 
+    <a href="nueva_tarea.php">Nueva tarea</a> 
     <br>
     <a href="logout.php">Cerrar sesión</a>
 </body>

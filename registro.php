@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-<h1>registro de usuario</h1>
+<h1>REGISTRATE </h1>
 <hr>
 <br>
 <form method="POST" action="registro1.php">
