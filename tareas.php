@@ -37,7 +37,7 @@
 
                 while ($row = $result->fetch_assoc()) {
                     $estado = ($row['completada'] == 1) ? "Completado" : "Pendiente";
-                    $accion = ($row['completada'] == 1) ? "Tarea completada" : "Completado";
+                    $accion = ($row['completada'] == 1) ? "Realizado" : "Completado";
 
                     echo "<tr>";
                     echo "<td>{$row['id']}</td>";
